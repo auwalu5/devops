@@ -13,4 +13,9 @@ another changed from MacBook
 Change from GUI
 >>>>>>> 139d522028ca73d71272c7b6dac427cabb9792ec
 
+<<<<<<< HEAD
 Our famous change from my MacOSX
+=======
+
+My famous change from GITHUB
+>>>>>>> 7eb01d5c73861c1fe432e4b76c55963f4225d88c
