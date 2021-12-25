@@ -17,5 +17,9 @@ Change from GUI
 Our famous change from my MacOSX
 =======
 
+<<<<<<< HEAD
 My famous change from git
+=======
+My famous change from github gui
+>>>>>>> f682247dde8f035394796685829dbd3a2aa5f015
 >>>>>>> 7eb01d5c73861c1fe432e4b76c55963f4225d88c
