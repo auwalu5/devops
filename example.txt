@@ -4,3 +4,6 @@ This is from git
 
 
 The changed was made in the bugfix branch
+
+
+Change from GUI
