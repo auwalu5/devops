@@ -1,3 +1,4 @@
+
 Hi there, 
 
 This is from git
@@ -11,3 +12,5 @@ another changed from MacBook
 =======
 Change from GUI
 >>>>>>> 139d522028ca73d71272c7b6dac427cabb9792ec
+
+Our famous change from my MacOSX
